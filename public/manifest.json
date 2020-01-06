@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "short_name": "MIPP",
   "name": "Media Indoor Peg Pese",
+=======
+  "short_name": "React App",
+  "name": "Create React App Sample",
+>>>>>>> d173227ac4b0c9ca197e739e01e7a23719f44c90
   "icons": [
     {
       "src": "favicon.ico",
