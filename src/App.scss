@@ -1,0 +1,22 @@
+@import 'styles/logo';
+@import 'styles/variables';
+@import 'styles/login';
+@import 'styles/dashboard';
+@import 'styles/media-queries';
+  
+.btn {
+    border: 0;
+    border-radius: 2x;
+    width: 100%;
+    height: 42px;
+    padding: 0 20px;
+    font-size: 16px;
+    font-weight: bold;
+    background: $smoothOrange;
+    color: #fff;
+    cursor: pointer;
+
+    &:hover{      
+      background: #fa6d42;
+    }
+  }
